@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "4.7.0"
+    "node": "10.19.0"
   },
   "dependencies": {
     "alert": "^5.0.10",
